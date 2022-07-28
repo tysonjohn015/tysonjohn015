@@ -22,7 +22,7 @@
 
 # 📋 Projets' portfolio
 ## :books: Data Science
-- Trees of Paris City: Univariate Data Analysis
+- Trees of Paris City: [Univariate Data Analysis](https://github.com/tysonjohn015/P02_Paris-Vegitation)
 - Open Food Facts: Mutivariate Data Analysis
 ## :test_tube: Machine Learning: Supervised / Non Supervised
 - Credit Scoring model: Classification models with imbalanced data
